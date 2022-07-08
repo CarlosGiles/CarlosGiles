@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Carlos Giles</h1>
 <h3 align="center">IT Engineer</h3>
 
-- 🔭 I’m currently working on [Dalia Empower](https://daliaempower.com/)
+- 🔭 I’m currently working on [Dalia Empower](https://daliaempower.com/) as IT Performance Engineer
 
 - 🌱 I’m currently learning **Data Science, Python, SQL**
 
